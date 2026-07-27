@@ -60,7 +60,7 @@ void adminMenu()
         printf("\n1. Customer Management");
         printf("\n2. Employee Management");
         printf("\n3. Reports & Statistics");
-        printf("\n4. Analytics & Search");
+        printf("\n4. Services");
         printf("\n5. Logout");
 
         printf("\n\nEnter Choice : ");

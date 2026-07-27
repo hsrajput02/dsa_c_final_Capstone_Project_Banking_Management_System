@@ -11,7 +11,7 @@ Smart Banking Management System (SBMS) is a console-based banking application de
 - Customer management
 - Employee management
 - Reports and statistics
-- DSA module
+- DSA module (Search, Sort, Linked List, Queue)
 
 ### Employee
 - Secure login
@@ -38,10 +38,11 @@ Smart Banking Management System (SBMS) is a console-based banking application de
 - Frozen accounts
 
 ### DSA Concepts
-- Linear Search
 - Binary Search
 - Bubble Sort by Name
 - Bubble Sort by Balance
+- Linked List (dynamic customer record traversal)
+- Queue (FIFO customer service request handling)
 
 ## Technologies Used
 
@@ -81,7 +82,8 @@ SBMS/
 │       ├── Employee_Dashboard.png
 │       ├── Cust_Account_Details.png
         ├── cust_management.png
-│       ├── Emp_mangement.pn
+│       ├── Emp_mangement.png
+│       ├── Services&Request.png
 │       ├── Mini_Statement.png
 │       └── Reports&statics.png
 |
@@ -131,9 +133,11 @@ For Windows PowerShell:
 - Structures
 - Arrays
 - Binary File Handling
-- Linear Search
 - Binary Search
 - Bubble Sort
+- Linked List (singly linked list of customer records)
+- Queue (linked-list based FIFO queue for service requests)
+
 
 ## Future Enhancements
 

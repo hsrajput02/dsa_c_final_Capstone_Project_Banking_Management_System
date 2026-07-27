@@ -202,6 +202,10 @@ void sortCustomersByName();
 
 void sortCustomersByBalance();
 
+void linkedListMenu();
+
+void queueMenu();
+
 // ---------------------------
 // Utility
 // ---------------------------
